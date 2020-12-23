@@ -11,6 +11,8 @@ env/
 ### Project specific ###
 settings_local.py
 
+draft.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
